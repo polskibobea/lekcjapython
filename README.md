@@ -1,1 +1,1 @@
-Kocham niebieskich ludzi i ~~krecikowa~~
+Lekcja python
